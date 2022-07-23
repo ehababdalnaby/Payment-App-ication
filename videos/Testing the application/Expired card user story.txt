@@ -1,0 +1,8 @@
+
+
+name: 			ehab abdalnaby zakaria
+expiry date:	07/21
+PAN:			3532329577284122983
+balance:		450
+max amount:		1000 
+Amount:			1200
